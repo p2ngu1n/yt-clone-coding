@@ -1,5 +1,7 @@
 # yt-clone-coding
 
+유튜브 api를 이용한 유튜브 동영상 검색 웹사이트입니다
+
 ## Project setup
 ```
 yarn install
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-
