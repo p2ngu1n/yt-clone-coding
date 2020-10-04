@@ -40,7 +40,7 @@ export default {
         order: "viewCount",
         maxResults: 12,
         q: "",
-        key: "AIzaSyDi08XrQZrhCAvJnFcRcNT0hAkDTU9IUQY",
+        key: "<API-KEY>",
         prevPageToken: "",
         nextPageToken: "",
       },
